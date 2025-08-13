@@ -1,0 +1,21 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "prev_hash": "Cypher: A minimal PoW chain",
+      "timestamp": 1755103507.8030958,
+      "nonce": 89298,
+      "txs": [
+        {
+          "inputs": [],
+          "outputs": [],
+          "timestamp": 1755103507.8030958,
+          "coinbase": true,
+          "txid": "98f4139d6eafb4e74f11c33ed7c8edfe1afd2f007b79f752c67df2599d0244a0"
+        }
+      ],
+      "merkle_root": "98f4139d6eafb4e74f11c33ed7c8edfe1afd2f007b79f752c67df2599d0244a0",
+      "hash": "00000b93d0ec46017580b911f8ee6796a3e42c965c96be08998dd5287cf77a7f"
+    }
+  ]
+}

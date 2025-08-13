@@ -1,0 +1,43 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "prev_hash": "Cypher: A minimal PoW chain",
+      "timestamp": 1755101152.803141,
+      "nonce": 211186,
+      "txs": [
+        {
+          "inputs": [],
+          "outputs": [],
+          "timestamp": 1755101151.0681357,
+          "coinbase": true,
+          "txid": "daa554f49dc9651d5eb054a7bf945a6d34d04c7d95546fe98bb142b149433276"
+        }
+      ],
+      "merkle_root": "daa554f49dc9651d5eb054a7bf945a6d34d04c7d95546fe98bb142b149433276",
+      "hash": "0000ed739b2f45826ee50fc297862c00b003aaed8e51c4a5038353ced4fde933"
+    },
+    {
+      "index": 1,
+      "prev_hash": "0000ed739b2f45826ee50fc297862c00b003aaed8e51c4a5038353ced4fde933",
+      "timestamp": 1755102528.9557152,
+      "nonce": 19995,
+      "txs": [
+        {
+          "inputs": [],
+          "outputs": [
+            {
+              "amount": 50,
+              "address": "CYPH5e080eaf5f435a96ec888c8ce424bf5b7c8970db"
+            }
+          ],
+          "timestamp": 1755102528.9557152,
+          "coinbase": true,
+          "txid": "b4b796d0101036973761fc837bf7409de59b41f628f528a0c6aa0276e52f457d"
+        }
+      ],
+      "merkle_root": "b4b796d0101036973761fc837bf7409de59b41f628f528a0c6aa0276e52f457d",
+      "hash": "0000eeb9b782d3660287a9c05061aedc6ff0a2619c77e68e7e236825aeadf0ab"
+    }
+  ]
+}
